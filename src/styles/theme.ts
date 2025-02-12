@@ -28,10 +28,34 @@
 // };
 
 export const theme = {
-    colors: {
-        black: "#000000",
-        white: "#ffffff",
-        red: "#ed1c24",
-    },
-    gridUnit: 4,
-};
+	colors: {
+		primary: '#ffffff',
+		secondary: '#ed1c24',
+		error: '#ff4040',
+		warning: '#ffd540',
+		success: '#29ff65',
+		neutral_10: '#1a1a1a',
+		neutral_20: '#333333',
+		neutral_30: '#4d4d4d',
+		neutral_40: '#666666',
+		neutral_50: '#808080',
+		neutral_60: '#999999',
+		neutral_70: '#b3b3b3',
+		neutral_80: '#cccccc',
+		neutral_90: '#e6e6e6',
+		neutral_100: '#ffffff',
+	},
+	gridUnit: 4,
+	fonts: {
+		size: {
+			xxs: 10,
+			xs: 12,
+			s: 14,
+			m: 16,
+			l: 18,
+			xl: 24,
+			xxl: 30,
+		},
+		weight: { bold: 600, normal: 400 },
+	},
+}
