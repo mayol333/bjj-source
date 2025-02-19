@@ -1,4 +1,4 @@
-import { createGlobalStyle } from "styled-components";
+import { createGlobalStyle } from 'styled-components'
 const GlobalStyles = createGlobalStyle`
 *{
     margin: 0;
@@ -9,9 +9,9 @@ const GlobalStyles = createGlobalStyle`
 }
 
 #root {
-    background-color: ${({ theme }) => theme.colors.black};
+    background-color: ${({ theme }) => theme.colors.neutral_10};
     height: 100vh;
     padding: ${({ theme }) => theme.gridUnit * 4}px;
 }
-`;
-export default GlobalStyles;
+`
+export default GlobalStyles
