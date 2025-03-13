@@ -11,6 +11,7 @@ const GlobalStyles = createGlobalStyle`
 #root {
     background-color: ${({ theme }) => theme.colors.neutral_10};
     height: 100vh;
+    color: ${({ theme }) => theme.colors.neutral_100} ;
 }
 `
 export default GlobalStyles

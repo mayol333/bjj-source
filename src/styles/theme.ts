@@ -44,6 +44,8 @@ export const theme = {
 		neutral_80: '#cccccc',
 		neutral_90: '#e6e6e6',
 		neutral_100: '#ffffff',
+		black: '#000000',
+		orange: '#ffa640',
 	},
 	gridUnit: 4,
 	fonts: {

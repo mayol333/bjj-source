@@ -23,7 +23,7 @@ export const Link = styled(NavLink)`
 	color: ${({ theme }) => theme.colors.neutral_100};
 	text-decoration: none;
 	&.active {
-		color: ${({ theme }) => theme.colors.neutral_10};
+		color: ${({ theme }) => theme.colors.neutral_10} !important;
 		background-color: ${({ theme }) => theme.colors.neutral_100};
 		path {
 			color: ${({ theme }) => theme.colors.neutral_10};
