@@ -1,0 +1,20 @@
+{
+  "tags": [
+    {
+      "name": "Trending",
+      "id": "0"
+    },
+    {
+      "name": "Newly Added",
+      "id": "1"
+    },
+    {
+      "name": "Staff Pick",
+      "id": "2"
+    },
+    {
+      "id": "bded",
+      "name": "Sleeping"
+    }
+  ]
+}

@@ -1,6 +1,5 @@
-export interface InputProps {
-    placeholder: string
-    label: string
-    onChange: ()=>void
-    value: string
+export interface InputProps
+	extends React.DetailedHTMLProps<React.InputHTMLAttributes<HTMLInputElement>, HTMLInputElement> {
+	placeholder: string
+	label?: string
 }

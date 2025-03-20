@@ -4,6 +4,7 @@ import { Theme } from '../../styles/styled-components'
 export const StyledTag = styled.div<{ $background: keyof Theme['colors']; $isBasic?: boolean }>`
 	padding: 8px;
 	border-radius: 25px;
+	align-items: center;
 	background-color: ${({ $background, theme }) => theme.colors[$background]};
 	display: flex;
 	gap: 4px;
