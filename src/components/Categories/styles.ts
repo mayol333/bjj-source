@@ -27,4 +27,9 @@ export const CategoriesWrapper = styled.div`
 	display: flex;
 	flex-direction: row;
 	gap: 8px;
+	margin-bottom: 16px;
+`
+export const DeleteButton = styled.button`
+	background-color: transparent;
+	margin-left: 10px;
 `

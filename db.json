@@ -1,20 +1,42 @@
 {
   "tags": [
     {
-      "name": "Trending",
+      "id": "e909",
+      "name": "Practice"
+    },
+    {
+      "id": "6fcb",
+      "name": "Programming"
+    },
+    {
+      "id": "6924",
+      "name": "Data"
+    }
+  ],
+  "categories": [
+    {
+      "name": "Programming",
       "id": "0"
     },
     {
-      "name": "Newly Added",
+      "name": "Design",
       "id": "1"
     },
     {
-      "name": "Staff Pick",
+      "name": "Data Analysis",
       "id": "2"
     },
     {
-      "id": "bded",
-      "name": "Sleeping"
+      "name": "Database",
+      "id": "3"
+    },
+    {
+      "name": "AI",
+      "id": "4"
+    },
+    {
+      "name": "Cloud Computing",
+      "id": "5"
     }
   ]
 }
