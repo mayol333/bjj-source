@@ -16,3 +16,12 @@ export const TableData = styled.td`
 export const TableRow = styled.tr`
 	padding: 10px;
 `
+export const CoursesWrapper = styled.div`
+	display: flex;
+	justify-content: center;
+`
+export const CategoriesList = styled.div`
+	display: flex;
+	gap: 10px;
+	margin-bottom: 20px;
+`

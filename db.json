@@ -38,5 +38,217 @@
       "name": "Cloud Computing",
       "id": "5"
     }
+  ],
+  "courses": [
+    {
+      "name": "Python Basics",
+      "instructor": "Alice",
+      "watchTime": "USA",
+      "category": "Programming",
+      "id": "101"
+    },
+    {
+      "name": "Java for Beginners",
+      "instructor": "Bob",
+      "watchTime": "Canada",
+      "category": "Programming",
+      "id": "102"
+    },
+    {
+      "name": "JavaScript Essentials",
+      "instructor": "Charlie",
+      "watchTime": "UK",
+      "category": "Programming",
+      "id": "103"
+    },
+    {
+      "name": "C++ Fundamentals",
+      "instructor": "Diana",
+      "watchTime": "India",
+      "category": "Programming",
+      "id": "104"
+    },
+    {
+      "name": "Go Language Intro",
+      "instructor": "Evan",
+      "watchTime": "Australia",
+      "category": "Programming",
+      "id": "105"
+    },
+    {
+      "name": "UI Design Basics",
+      "instructor": "Fiona",
+      "watchTime": "USA",
+      "category": "Design",
+      "id": "201"
+    },
+    {
+      "name": "UX Principles",
+      "instructor": "George",
+      "watchTime": "Germany",
+      "category": "Design",
+      "id": "202"
+    },
+    {
+      "name": "Figma for Beginners",
+      "instructor": "Hannah",
+      "watchTime": "UK",
+      "category": "Design",
+      "id": "203"
+    },
+    {
+      "name": "Graphic Design Tools",
+      "instructor": "Ivan",
+      "watchTime": "France",
+      "category": "Design",
+      "id": "204"
+    },
+    {
+      "name": "Typography & Layout",
+      "instructor": "Judy",
+      "watchTime": "Italy",
+      "category": "Design",
+      "id": "205"
+    },
+    {
+      "name": "Intro to Data Analysis",
+      "instructor": "Kevin",
+      "watchTime": "USA",
+      "category": "Data Analysis",
+      "id": "301"
+    },
+    {
+      "name": "Excel for Analysts",
+      "instructor": "Laura",
+      "watchTime": "Canada",
+      "category": "Data Analysis",
+      "id": "302"
+    },
+    {
+      "name": "Pandas with Python",
+      "instructor": "Mike",
+      "watchTime": "India",
+      "category": "Data Analysis",
+      "id": "303"
+    },
+    {
+      "name": "Data Visualization",
+      "instructor": "Nina",
+      "watchTime": "UK",
+      "category": "Data Analysis",
+      "id": "304"
+    },
+    {
+      "name": "Statistics Basics",
+      "instructor": "Oscar",
+      "watchTime": "Germany",
+      "category": "Data Analysis",
+      "id": "305"
+    },
+    {
+      "name": "SQL Basics",
+      "instructor": "Paul",
+      "watchTime": "USA",
+      "category": "Database",
+      "id": "401"
+    },
+    {
+      "name": "MySQL for Beginners",
+      "instructor": "Quincy",
+      "watchTime": "UK",
+      "category": "Database",
+      "id": "402"
+    },
+    {
+      "name": "MongoDB Fundamentals",
+      "instructor": "Rachel",
+      "watchTime": "India",
+      "category": "Database",
+      "id": "403"
+    },
+    {
+      "name": "PostgreSQL Intro",
+      "instructor": "Steve",
+      "watchTime": "Germany",
+      "category": "Database",
+      "id": "404"
+    },
+    {
+      "name": "Database Design",
+      "instructor": "Tina",
+      "watchTime": "France",
+      "category": "Database",
+      "id": "405"
+    },
+    {
+      "name": "Intro to AI",
+      "instructor": "Uma",
+      "watchTime": "USA",
+      "category": "AI",
+      "id": "501"
+    },
+    {
+      "name": "Machine Learning Basics",
+      "instructor": "Victor",
+      "watchTime": "Canada",
+      "category": "AI",
+      "id": "502"
+    },
+    {
+      "name": "Deep Learning with Python",
+      "instructor": "Wendy",
+      "watchTime": "India",
+      "category": "AI",
+      "id": "503"
+    },
+    {
+      "name": "AI Ethics",
+      "instructor": "Xander",
+      "watchTime": "UK",
+      "category": "AI",
+      "id": "504"
+    },
+    {
+      "name": "Computer Vision Intro",
+      "instructor": "Yara",
+      "watchTime": "Germany",
+      "category": "AI",
+      "id": "505"
+    },
+    {
+      "name": "Cloud Basics",
+      "instructor": "Zack",
+      "watchTime": "USA",
+      "category": "Cloud Computing",
+      "id": "601"
+    },
+    {
+      "name": "AWS Fundamentals",
+      "instructor": "Amy",
+      "watchTime": "India",
+      "category": "Cloud Computing",
+      "id": "602"
+    },
+    {
+      "name": "Azure for Beginners",
+      "instructor": "Brian",
+      "watchTime": "UK",
+      "category": "Cloud Computing",
+      "id": "603"
+    },
+    {
+      "name": "Google Cloud Intro",
+      "instructor": "Cathy",
+      "watchTime": "Germany",
+      "category": "Cloud Computing",
+      "id": "604"
+    },
+    {
+      "name": "DevOps on Cloud",
+      "instructor": "Dan",
+      "watchTime": "Canada",
+      "category": "Cloud Computing",
+      "id": "605"
+    }
   ]
 }

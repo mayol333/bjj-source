@@ -1,7 +1,6 @@
 import { ReactNode } from 'react'
 
 export interface ButtonProps {
-	primary?: boolean
 	backgroundColor?: string
 	size?: ButtonSize
 	onClick?: () => void
